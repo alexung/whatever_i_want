@@ -1,0 +1,8 @@
+== README
+
+create user migration
+
+index list of all users
+
+show info about user
+

@@ -1,0 +1,3 @@
+class RedController < ApplicationController
+
+end
